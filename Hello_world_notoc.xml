@@ -734,7 +734,7 @@
 
     /* 段落設定 */
     .post-content p {
-      padding: 0 15px;
+      margin: 0;
     }
 
     /* リンク設定 */
